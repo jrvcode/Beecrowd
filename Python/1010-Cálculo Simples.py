@@ -1,3 +1,5 @@
+# https://www.beecrowd.com.br/judge/pt/problems/view/1010
+
 nomeVendedor = str(input())
 salarioFixo = float(input())
 vendas = float(input())

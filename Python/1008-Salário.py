@@ -1,3 +1,5 @@
+# https://www.beecrowd.com.br/judge/pt/problems/view/1008
+
 idFunc = int(input())
 horasTrab = int(input())
 salarioH = float(input())
