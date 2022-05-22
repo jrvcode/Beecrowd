@@ -35,22 +35,22 @@
         if($v3 == "+"){
         $total = $v1 + $v2;    
         echo "<br>";
-        echo "Total: " .$total;
+        echo "Resultado: " .$v1  .$v3  .$v2 ." = " .$total;
         echo "<br>";
     }elseif ($v3 == "-") {
         $total = $v1 - $v2;
         echo "<br>";
-        echo "Total: " .$total;        
+        echo "Resultado: " .$v1  .$v3  .$v2 ." = " .$total;        
         echo "<br>";
     }elseif ($v3 == "*") {
         $total = $v1 * $v2;
         echo "<br>";
-        echo "Total: " .$total;
+        echo "Resultado: " .$v1  .$v3  .$v2 ." = " .$total;
         echo "<br>";
     }elseif ($v3 == "/") {
         $total = $v1 / $v2;
         echo "<br>";
-        echo "Total: " .$total;
+        echo "Resultado: " .$v1  .$v3  .$v2 ." = " .$total;
         echo "<br>";
     }    
     }
